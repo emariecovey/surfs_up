@@ -1,8 +1,10 @@
 ###SETTING UP FLASK WEATHER MAP
 
+#activate PythonData environment with command-shift-p and search for 'select interpreter
 #make sure to save and kill terminal between times running flask
 #export FLASK_APP=app.py
 #flask run
+
 
 #import dependencies
 import datetime as dt
